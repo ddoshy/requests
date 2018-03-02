@@ -3,6 +3,8 @@
 Support
 =======
 
+.. image:: https://farm5.staticflickr.com/4198/34080352913_5c13ffb336_k_d.jpg
+
 If you have questions or issues about Requests, there are several options:
 
 StackOverflow
@@ -26,7 +28,7 @@ File an Issue
 
 If you notice some unexpected behaviour in Requests, or want to see support
 for a new feature,
-`file an issue on GitHub <https://github.com/kennethreitz/requests/issues>`_.
+`file an issue on GitHub <https://github.com/requests/requests/issues>`_.
 
 
 E-mail
